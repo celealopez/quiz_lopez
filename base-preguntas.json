@@ -1,0 +1,71 @@
+[
+    {
+        "categoria": "Marvel",
+        "pregunta": "¿En qué año se estrenó la primera película de Iron Man, que lanzó el Marvel Cinematic Universe?",
+        "respuesta": "2008",
+        "incorrecta1": "2005",
+        "incorrecta2": "2010",
+        "incorrecta3": "2012",
+        "imagen": "https://i.blogs.es/7ccbec/iron-man/1366_2000.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Marvel",
+        "pregunta": "¿Cómo se llama el martillo de Thor?",
+        "respuesta": "Mjolnir",
+        "incorrecta1": "Vanir",
+        "incorrecta2": "Aesir",
+        "incorrecta3": "Norn",
+        "imagen": "https://poptv.orange.es/wp-content/uploads/sites/3/2022/06/mjolnir-1100x619.jpeg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Marvel",
+        "pregunta": " Antes de convertirse en Visión, ¿cómo se llama el mayordomo de inteligencia artificial de Iron Man?",
+        "respuesta": "Jarvis",
+        "incorrecta1": "Homero",
+        "incorrecta2": "Alfredo",
+        "incorrecta3": "Marvin",
+        "imagen": "https://ahaslides.com/wp-content/uploads/2020/07/31a79fe0a7881e0d92bff6eef389290559ce99b2.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Marvel",
+        "pregunta": "¿Cuál es el verdadero nombre de la Pantera Negra?",
+        "respuesta": "T'Challa",
+        "incorrecta1": "M'Baku",
+        "incorrecta2": "N'Jadaka",
+        "incorrecta3": "N'Jobu",
+        "imagen": "https://www.clarin.com/img/2018/02/15/S1gDniNDG_1256x620__4.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Marvel",
+        "pregunta": " ¿De qué está hecho el escudo del Capitán América?",
+        "respuesta": "Vibranio",
+        "incorrecta1": "Adamantium",
+        "incorrecta2": "prometeo",
+        "incorrecta3": "Carbonadio",
+        "imagen": "https://www.eltiempo.com/files/image_640_428/files/crop/uploads/2021/03/18/6053b245167d5.r_1617990415395.467-1102-2198-1969.jpeg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Marvel",
+        "pregunta": "¿A quién sacrifica el Titán Loco para adquirir la Piedra del Alma?",
+        "respuesta": "Gamora",
+        "incorrecta1": "Fauces de ébano",
+        "incorrecta2": "Obsidiana de sacrificio",
+        "incorrecta3": "Nebula",
+        "imagen": "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/noticias-cine/hermanos-russo-confirman-teoria-gema-del-alma-vengadores-infinity-war/138032042-1-esl-ES/Los-Russo-confirman-una-importante-teoria-sobre-la-Gema-del-Alma-en-Vengadores-Infinity-War.jpg?crop=1xw:0.7757575757575758xh;center,top&resize=1200:*",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Marvel",
+        "pregunta": " En The Incredible Hulk, ¿qué le dice Tony a Thaddeus Ross al final de la película?",
+        "respuesta": "Que están formando un equipo",
+        "incorrecta1": "Que quiere estudiar The Hulk",
+        "incorrecta2": "Que él sabe sobre SHIELD",
+        "incorrecta3": "Que Thaddeus le debe dinero",
+        "imagen": "https://img.buzzfeed.com/buzzfeed-static/static/2020-04/30/15/enhanced/b54861aa18b7/enhanced-759-1588259581-3.jpg?output-format=auto&output-quality=auto",
+        "objectFit": "cover"
+    }]

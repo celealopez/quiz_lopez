@@ -1,0 +1,91 @@
+* {
+    transition: all 0.3s;
+    font-size: 20px;
+  }
+
+  body {
+    background-image: url(https://fondosmil.com/fondo/48487.jpg);
+    background-size: 100%;
+    background-repeat: repeat;
+    padding: 0;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 120%;
+  }
+
+  .contenedor {
+    width: 98vw;
+    height: 97vh;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px black;
+  }
+
+  .encabezado {
+    position: relative;
+    background: rgb(221, 10, 10);
+    color: white;
+    width: 500px;
+    width: 70%;
+    max-width: 600px;
+    padding: 10px;
+    border-radius: 20px;
+    
+  }
+
+  .categoria {
+    opacity: 0.3;
+    text-align: left;
+    
+  }
+
+  .pregunta {
+    padding: 10px;
+    border-radius: 20px;
+  }
+
+  .imagen {
+    object-fit: cover;
+    height: 300px;
+    width: 100%;
+  
+  }
+
+  .btn {
+    background: rgb(221, 10, 10);
+    color: white;
+    width: 60%;
+    max-width: 550px;
+    padding: 10px;
+    margin: 5px;
+    cursor: grab;
+    border-radius: 20px;
+    
+   
+  }
+
+  .btn:hover {
+    transform: scale(1.05);
+    
+  }
+  
+  .numero{
+    position: absolute;
+    opacity:0.3;
+    top: 10px;
+    right: 10px;
+  }
+  
+  .puntaje{
+    
+    color:rgb(241, 95, 95);
+    font-size: 20px;
+    display: inline-flex;
+    justify-content: center;
+ 
+  margin: 0 auto;
+  position: fixed;
+  }
