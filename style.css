@@ -26,7 +26,7 @@
 
   .encabezado {
     position: relative;
-    background: rgb(221, 10, 10);
+    background: black;
     color: white;
     width: 500px;
     width: 70%;
@@ -45,6 +45,7 @@
   .pregunta {
     padding: 10px;
     border-radius: 20px;
+    height: 70px;
   }
 
   .imagen {
@@ -55,7 +56,7 @@
   }
 
   .btn {
-    background: rgb(221, 10, 10);
+    background: black;
     color: white;
     width: 60%;
     max-width: 550px;
@@ -88,4 +89,12 @@
  
   margin: 0 auto;
   position: fixed;
+  }
+
+  .botones{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 0 auto;
+    
   }

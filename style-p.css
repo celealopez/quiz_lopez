@@ -59,7 +59,7 @@ html, body {
     text-align: center;
     text-transform: uppercase;
     font-family: 'Montserrat', sans-serif;
-    
+    position: sticky;
   }
   .btn:hover, .btn:focus {
     color: black;
